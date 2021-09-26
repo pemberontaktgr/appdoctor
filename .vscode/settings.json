@@ -1,0 +1,78 @@
+{
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.formatOnSave": false
+    },
+    "[javascriptreact]": {
+        "editor.formatOnSave": true
+    },
+    "eslint.autoFixOnSave": true,
+    "prettier.disableLanguages": [
+        "javascript",
+        "javasciptreact"
+    ],
+    "terminal.integrated.shell.isx": "/bin/bash",
+    "showMusciMetrics": false,
+    "shiwGitMetrics": false,
+    "showWeeklyRanking": false,
+    "peacock.favoriteColors": [
+        {
+            "name": "Angular Red",
+            "Value": "#b52e31"
+        },
+        {
+            "name": "Auth0 Orang",
+            "Value": "#eb5424"
+        },
+        {
+            "name": "Azure Blue",
+            "Value": "#007fff"
+        },
+        {
+            "name": "C# Purple",
+            "Value": "#68217A"
+        },
+        {
+            "name": "Gatsby Purple",
+            "Value": "#639"
+        },
+        {
+            "name": "Go Cyan",
+            "Value": "#5dc9e2"
+        },
+        {
+            "name": "Java Blue-Gray",
+            "Value": "#557c9b"
+        },
+        {
+            "name": "JavaScript Yellow",
+            "Value": "#f9e64f"
+        },
+        {
+            "name": "Mandalorian Blue",
+            "Value": "#1857a4"
+        },
+        {
+            "name": "Node Green",
+            "Value": "#215732"
+        },
+        {
+            "name": "React Blue",
+            "Value": "#00b3e6"
+        },
+        {
+            "name": "Something Different",
+            "Value": "#832561"
+        },
+        {
+            "name": "Vue Green",
+            "Value": "#42b883"
+        },
+    ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    }
+    
+}
